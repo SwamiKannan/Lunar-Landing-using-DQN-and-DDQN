@@ -1,3 +1,8 @@
+This is a series of projects where I solve RL environments by building RL algorithms from scratch using Python, Pytorch and Tensorflow
+
+# Exercise
+Solving the Lunar Landing environment using DQN and DDQN
+
 # Lunar Landing v2
 ## Environment:
 Rocket trajectory optimization is a classic topic in Optimal Control. According to Pontryagin's maximum principle it's optimal to fire engine full throttle or turn it off. That's the reason this environment is OK to have discreet actions (engine on or off).
